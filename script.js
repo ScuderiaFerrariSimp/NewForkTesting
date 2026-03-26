@@ -2,9 +2,10 @@ const gifStages = [
     "https://media.tenor.com/RK9Mf1r9Xf8AAAAi/love.gif",    // 0 normal
     "https://media1.tenor.com/m/0y8SE0YjURAAAAAC/cat-cat-math.gif",  // 1 confused
     "https://media1.tenor.com/m/BIojD-ZTFBEAAAAd/kitty-cute.gif",             // 2 pleading
-    "https://media.tenor.com/-2rbVbnfW24\"https://tenor.com/bfJh3.gif",  // 2 pleading\"https://media.tenor.com/-2rbVbnfW24AAAAj/crying-cat-sad-kitty.gif\",             // 3 sadAAAAj/crying-cat-sad-kitty.gif",             // 3 sad
+    "https://media1.tenor.com/m/GZbbBanfCqIAAAAC/cat-cat-meme.gif",  // 2 pleading
+    "https://media.tenor.com/-2rbVbnfW24AAAAj/crying-cat-sad-kitty.gif"             // 3 sad
     "https://media.tenor.com/ikTQ-pi_GyMAAAAi/cat-cry-kitten-cry.gif",       // 4 sadder
-    "https://media1.tenor.com/m/7R-Aqnts07EAAAAC/sad-cat.gif\"https://tenor.com/j2JL8h7gae6.gif\",             // 5 devastatedf",             // 5 devastated
+    "https://media1.tenor.com/m/7R-Aqnts07EAAAAC/sad-cat.gif",             // 5 devastated"
     "https://media1.tenor.com/m/yIvENta8ftAAAAAd/cat-staring-devastated.gif",               // 6 very devastated
     "https://media.tenor.com/U1agC4a0hNEAAAAi/i-thought-you-loved-me-i-love-you.gif"  // 7 crying runaway
 ]
